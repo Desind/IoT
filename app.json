@@ -1,0 +1,12 @@
+{
+  "name": "iott",
+  "displayName": "iott",
+  "expo": {
+    "name": "iott",
+    "slug": "iott",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
